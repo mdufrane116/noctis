@@ -1,3 +1,9 @@
+## mdufrane updates
+
+add this line to the bottom of the noctis.yaml file to fix spacing at the top of the home dashboard:
+
+```ha-view-sections-row-gap: 6px```
+
 ## Noctis
 
 Dark Blue Theme with Blue accent Colors for [Home Assistant](https://www.home-assistant.io) 
